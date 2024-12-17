@@ -1,0 +1,11 @@
+C:\Users\manue\Desktop\MineriaDatos\bin\Debug\MineriaDatos.exe.config
+C:\Users\manue\Desktop\MineriaDatos\bin\Debug\MineriaDatos.exe
+C:\Users\manue\Desktop\MineriaDatos\bin\Debug\MineriaDatos.pdb
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.csproj.AssemblyReference.cache
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.Properties.Resources.resources
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.exe
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.pdb
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.ManejoDatos.resources
+C:\Users\manue\Desktop\MineriaDatos\obj\Debug\MineriaDatos.GraficosDatos.resources
